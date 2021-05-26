@@ -25,14 +25,14 @@ This lab assumes you have completed the following labs:
 
 1.  Log in to the Oracle Cloud console (in a new window if you still have files uploading from the previous lab). Click on the hamburger menu at the top left and choose "Autonomous Transaction Processing under Database
 
-    ![](./images/atp.png " ")
+    ![](./images/AJD.png " ")
 
 2.  Click “Create Autonomous Database”. 
     
     Set the Display Name and Database Name to “yelp”, make sure “Transaction Processing” is selected, and that database version is set to 19c. 
 
 
-    ![](./images/atp2.png " ")
+    ![](./images/AJD2.png " ")
 
     Scroll down and provide a password for the AMIN user. Remember the password! (Once you've finally convinced the complexity algorithm to accept one). Click Create Autonomous Database. This will take around 1-2 minutes to provision the database. When the big square ATP logo goes green, your database is ready to use.
 
